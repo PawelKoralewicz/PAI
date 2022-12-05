@@ -1,1 +1,2 @@
 # PAI
+repo ćwiczenia
