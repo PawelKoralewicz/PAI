@@ -1,0 +1,85 @@
+body{
+    margin: 0;
+}
+
+header{
+    height: 100px;
+    background-color: #faf1f1;
+
+}
+
+img{
+    height: 100%;
+}
+
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #333;
+  }
+  
+  li {
+    float: left;
+  }
+  
+  li a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    transition: all .5s;
+  }
+  
+  li a:hover {
+    background-color: rgb(71, 158, 4);
+  }
+
+  aside{
+    background-color: rgb(255, 184, 184);
+    width: 20%;
+    height: 100%;
+    position: absolute;
+  }
+
+  footer{
+    text-align: center;
+    background-color: #333;
+    color: #fff;
+    clear: both;
+  }
+
+  main{
+    margin-bottom: 0px;
+    background-color: #faf1f1;
+    height: 100%;
+    position: relative;
+  }
+
+  article{
+    width: 25%;
+    background-color: bisque;
+    padding: 0;
+  }
+
+  .content{
+    margin-left: 25%;
+    display: flex;
+    justify-content: space-around;
+  }
+
+  .jobs-apple, .fruit-apple{
+    float: right;
+    width: 180px;
+    height: 160px;
+  }
+
+  #article-footer{
+    background-color: rgb(242, 232, 219)
+  }
+
+  button{
+    float: right;
+  }
