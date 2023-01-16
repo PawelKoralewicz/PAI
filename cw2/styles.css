@@ -1,0 +1,48 @@
+#logo-img{
+    height: 40px;
+    width: 40px;
+}
+main{
+    min-height: 70vh;
+}
+
+footer{
+    background-color: #257afe;
+    color: #f8f9fe;
+    padding: 20px;
+}
+
+ul{
+    list-style: none;
+}
+
+ul .footer-links{
+    text-decoration: none;
+    color: #f8f9fe;
+}
+
+ul .footer-links:hover{
+    color: #f8f9fe;
+    text-decoration: underline;
+}
+
+#navbarDropdownMenuLink{
+    color:#257afe;
+}
+
+nav{
+    margin-bottom: 0!important;
+}
+
+main{
+    color: #f8f9fe;
+    margin-left: 40px;
+}
+
+.dropdown #login{
+    margin-right: 15px;
+}
+
+.dropdown form{
+    min-width: 250px;
+}
